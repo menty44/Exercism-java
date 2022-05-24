@@ -1,7 +1,9 @@
+package src.main.java;
+
 class Greeter {
 
-    String getGreeting() {
-        return "Goodbye, Mars!";
+    public String getGreeting() {
+        return "Hello, World!";
     }
 
 }
